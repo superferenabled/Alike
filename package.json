@@ -1,6 +1,6 @@
 {
-  "name": "alike",
-  "version": "1.3.0",
+  "name": "sfenbld-alike",
+  "version": "1.0.0",
   "description": "A simple kNN library for Machine Learning, comparing JSON objects using Euclidean distances, returning top k similar objects -- supports normalization, weights, key and filter parameters",
   "main": "lib/main.js",
   "devDependencies": {
@@ -17,7 +17,7 @@
   "scripts": {
     "test": "mocha test/*.js"
   },
-  "author": "mck- <kuomarc2@gmail.com>",
+  "author": "mck- <kuomarc2@gmail.com>, fcc <superferenabled@gmail.com>",
   "keywords": [
     "knn",
     "Machine Learning",
@@ -27,12 +27,12 @@
     "object comparison"
   ],
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/axiomzen/Alike",
+  "homepage": "https://github.com/superferenabled/Alike",
   "repository": {
     "type": "git",
-    "url": "https://github.com/axiomzen/Alike"
+    "url": "https://github.com/superferenabled/Alike"
   },
-  "bugs": "https://github.com/axiomzen/Alike/issues",
+  "bugs": "https://github.com/superferenabled/Alike/issues",
   "license": "LGPL",
   "dependencies": {
     "stable": "~0.1.3"
